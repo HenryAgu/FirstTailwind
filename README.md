@@ -2,8 +2,6 @@
 
 This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Overview
-
 ### The challenge
 
 Users should be able to:
@@ -12,6 +10,8 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+![Screenshot 2023-08-07 094558](https://github.com/HenryAgu/FirstTailwind/assets/74037448/1a6ae89b-cf63-4602-9ae6-fed99831b22d)
+![Uploading Screenshot 2023-08-07 094534.png…]()
 
 
 ## My process
