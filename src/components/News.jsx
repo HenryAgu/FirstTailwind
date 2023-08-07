@@ -24,7 +24,7 @@ const News = () => {
       <a href="">
         {" "}
         <div className="flex gap-x-5 xl:gap-x-3 hover:text-orange">
-          <img src={News1} alt="News" className="w-28" />
+          <img src={News2} alt="News" className="w-28" />
           <div className="flex flex-col gap-y-3.5">
             <h1 className="font-black text-3xl text-primaryColor">02</h1>
             <h4 className="font-black text-xl">Top 10 Laptops of 2022</h4>
@@ -36,7 +36,7 @@ const News = () => {
       </a>
       <a href="">
         <div className="flex gap-x-5 xl:gap-x-3 hover:text-orange">
-          <img src={News1} alt="News" className="w-28" />
+          <img src={News3} alt="News" className="w-28" />
           <div className="flex flex-col gap-y-3.5">
             <h1 className="font-black text-3xl text-primaryColor">03</h1>
             <h4 className="font-black text-xl">The Growth of Gaming</h4>
