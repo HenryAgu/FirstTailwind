@@ -10,8 +10,10 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+![Screenshot 2023-08-07 094534](https://github.com/HenryAgu/FirstTailwind/assets/74037448/7d7d8ead-fd7a-414d-9ef3-de25899f5d3a)
+
 ![Screenshot 2023-08-07 094558](https://github.com/HenryAgu/FirstTailwind/assets/74037448/1a6ae89b-cf63-4602-9ae6-fed99831b22d)
-![Uploading Screenshot 2023-08-07 094534.png…]()
+
 
 
 ## My process
