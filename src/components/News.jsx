@@ -7,10 +7,10 @@ import News3 from "../images/news3.jpg";
 
 const News = () => {
   return (
-    <section className="my-12 flex justify-between gap-x-10">
+    <section className="my-12 grid xl:grid-cols-3 md:grid-cols-1 gap-y-5 gap-x-10 xl:gap-x-5">
       <a href="">
         {" "}
-        <div className="flex gap-x-5 hover:text-orange">
+        <div className="flex gap-x-5 xl:gap-x-3 hover:text-orange">
           <img src={News1} alt="News" className="w-28" />
           <div className="flex flex-col gap-y-3.5">
             <h1 className="font-black text-3xl text-primaryColor">01</h1>
@@ -23,7 +23,7 @@ const News = () => {
       </a>
       <a href="">
         {" "}
-        <div className="flex gap-x-5 hover:text-orange">
+        <div className="flex gap-x-5 xl:gap-x-3 hover:text-orange">
           <img src={News1} alt="News" className="w-28" />
           <div className="flex flex-col gap-y-3.5">
             <h1 className="font-black text-3xl text-primaryColor">02</h1>
@@ -35,7 +35,7 @@ const News = () => {
         </div>
       </a>
       <a href="">
-        <div className="flex gap-x-5 hover:text-orange">
+        <div className="flex gap-x-5 xl:gap-x-3 hover:text-orange">
           <img src={News1} alt="News" className="w-28" />
           <div className="flex flex-col gap-y-3.5">
             <h1 className="font-black text-3xl text-primaryColor">03</h1>
